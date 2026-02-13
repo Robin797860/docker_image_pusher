@@ -4,4 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-mysql:8.0
+#mysql:8.0
+quay.io/coreos/etcd:v3.5.5
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+milvusdb/milvus:latest
